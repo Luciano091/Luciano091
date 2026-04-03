@@ -38,9 +38,7 @@ Especializo-me no desenvolvimento de **Sistemas de Informação em Saúde**, uni
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luciano091&theme=dracula" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Luciano091&theme=dracula" />
 </div>
-
 ---
 
 "Onde a ciência e o código se encontram para gerar impacto social."
