@@ -10,7 +10,7 @@
 
 Com uma base sólida em **Biologia** (Graduação e Pós-graduação), realizei minha transição para o universo da tecnologia, onde atualmente curso **Análise e Desenvolvimento de Sistemas** na Faculdade IMES. 
 
-Especializo-me no desenvolvimento de **Sistemas de Informação em Saúde**, unindo o conhecimento biológico à engenharia de software para criar ferramentas de coleta e processamento de dados que otimizam o planejamento de serviços públicos. Atualmente, trabalho no desenvolvimento de uma plataforma robusta para análise de indicadores do Ministério da Saúde (com foco em Saúde da Mulher e indicadores do Previne Brasil).
+Especializo-me no desenvolvimento de **Sistemas de Informação em Saúde**, unindo o conhecimento biológico à engenharia de software para criar ferramentas de coleta e processamento de dados que otimizam o planejamento de serviços públicos. Atualmente, trabalho junto com um DEV SÉNIOR no desenvolvimento de uma plataforma robusta para análise de indicadores do Ministério da Saúde (com foco em Saúde da Mulher e indicadores do Ministério da Saúde).
 
 ---
 
